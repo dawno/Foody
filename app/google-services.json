@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "351968362482",
+    "firebase_url": "https://foody-45649.firebaseio.com",
+    "project_id": "foody-45649",
+    "storage_bucket": "foody-45649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351968362482:android:5513432117a73820",
+        "android_client_info": {
+          "package_name": "com.example.dellpc.foody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351968362482-egancuq8ocspmm22opotovclb4fl0846.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIkXm5DZ3LkoBxXJfYOQNbb_G2ANAJrLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
